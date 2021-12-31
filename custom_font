@@ -1,5 +1,5 @@
 @font-face {
- font-family: YOUR FONT NAME;
+ font-family: Strandall;
  font-style: normal;
  font-weight: 400;
  src: url(https://rawcdn.githack.com/winterbourne/shadow_theme/d460bf20b6fd1e1730777e04219466df2c633ca0/custom_font) ;
